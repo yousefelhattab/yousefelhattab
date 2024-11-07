@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-<img src="https://media.giphy.com/media/L05HgB2h6qICDs5Sms/giphy.gif" align="center" style="width: 80%" alt="Loading Bar Animation" />
+<img src="https://octodex.github.com/images/Fintechtocat.png" align="center" style="width: 60%" alt="Fintechtocat Welcome Image" />
 </div>
 
 ### About Me
@@ -28,10 +28,20 @@ I am a recent Electronics and Communication Engineering graduate with a deep int
 ---
 
 ### 📫 Let's Connect
-- **Email**: [yousefelhattab12@gmail.com](mailto:yousefelhattab12@gmail.com)
-- **LinkedIn**: [Yousef Elhattab](https://linkedin.com/in/yousef-elhattab)
-- **GitHub**: [YousefElhattab](https://github.com/yousefelhattab)
-- **Credly**: [View my Certifications](https://www.credly.com/users/yousef-elhattab)
+<div align="center">
+<a href="https://github.com/yousefelhattab" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="margin: 5px;" />
+</a>
+<a href="https://linkedin.com/in/yousef-elhattab" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin: 5px;" />
+</a>
+<a href="https://www.credly.com/users/yousef-elhattab" target="_blank">
+<img src="https://img.shields.io/badge/Credly-%23FEC006.svg?&style=for-the-badge&logo=credly&logoColor=white" alt="Credly" style="margin: 5px;" />
+</a>  
+<a href="mailto:yousefelhattab12@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="margin: 5px;" />
+</a> 
+</div>
 
 ---
 

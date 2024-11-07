@@ -1,10 +1,9 @@
-
 ## <div align="center">
 <strong style="font-size: 24px;">Hi, I'm Yousef Waleed Elhattab – DevOps and Automation Enthusiast 🚀</strong>
 </div>
 
 <div align="center">
-<img src="https://cdn.dribbble.com/users/420183/screenshots/2875637/octocat_github.gif" align="center" style="width: 100%" />
+<img src="https://user-images.githubusercontent.com/99184393/203081431-e18c63f7-9e26-4e6c-bdb6-498f5e9eb1b8.png" align="center" style="width: 80%" alt="Welcome Banner" />
 </div>
 
 ### About Me
@@ -35,11 +34,6 @@ I'm a recent Electronics and Communication Engineering graduate with a strong fo
 - **Credly**: [View my Certifications](https://www.credly.com/users/yousef-elhattab)
 
 ---
-
-### GitHub Stats
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=yousefelhattab&show_icons=true&hide_border=true&bg_color=00000000&text_color=ffffff&title_color=ffcc00&icon_color=ffcc00" alt="Yousef's GitHub Stats" />
-</div>
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=yousefelhattab&&style=flat-square" align="center" />

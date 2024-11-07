@@ -1,4 +1,4 @@
-## Hi there 👋
+
 ## <div align="center">
 <strong style="font-size: 24px;">Hi, I'm Yousef Waleed Elhattab – DevOps and Automation Enthusiast 🚀</strong>
 </div>

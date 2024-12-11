@@ -7,7 +7,9 @@
 </div>
 
 ### About Me
-I am a recent Electronics and Communication Engineering graduate with a deep interest in DevOps, cloud technologies, and automation. Currently, I am enrolled in the DevOps and Automation program at the National Telecommunication Institute (NTI), where I am developing hands-on expertise in tools such as **AWS, Linux, Ansible, Docker, Terraform, Python, and CI/CD pipelines**. My goal is to leverage technology to create scalable, efficient solutions that drive productivity, streamline workflows, and support business growth.
+I am an Electronics and Communication Engineering graduate with a strong passion for DevOps, cloud computing, and automation. I hold the AWS Certified Cloud Practitioner certification and have completed the DevOps and Automation program at the National Telecommunication Institute (NTI). During my training, I gained hands-on experience with technologies such as AWS, Linux, Ansible, Docker, Terraform, Python, and CI/CD pipelines.
+
+I am committed to leveraging my skills to design scalable, efficient systems that streamline workflows, boost productivity, and drive business growth. Always eager to learn and innovate, I enjoy contributing to projects that bridge the gap between development and operations.
 
 ---
 
